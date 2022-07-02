@@ -11,3 +11,7 @@ h2{
 h3{
     color: chocolate;
 }
+.about p{
+    color: crimson;
+    font-family: Arial, Helvetica, sans-serif;
+}
